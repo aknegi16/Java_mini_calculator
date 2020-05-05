@@ -1,1 +1,3 @@
-# Java_mini_calculator
+# Java mini calculator
+
+Java menu driven program for DevOps project
